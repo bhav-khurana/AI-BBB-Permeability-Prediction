@@ -1,0 +1,3 @@
+Download the required large files from the following drive link and make sure they are in the same directory as the rgcn_drugism.py file
+
+https://drive.google.com/drive/folders/1iUCbxQWUKWyvRYypHorgY7WBlLQ99I4E?usp=sharing
